@@ -1,1 +1,22 @@
+<h1>-<h6>tekstiä</h1>-</h6> <!--OTSIKKO näin voi kommentoida-->
+<h1 style="font-size:60px;">otsikkoteksti</h1>
+<p>tekstiä</p> <!--kappale-->
+<br> <!--rivin vaihto-->
+<a href="">tekstiä</a> <!--linkki internet-sivulle ja teksti-->
+<img src="" alt="" widht="" height=""> <!--kuvan lisääminen ja leveyden & korkeuden määritteleminen-->
 
+<!--tässä vinkkejä tekstin muokkaukseen-->
+<b> 	lihavoi tekstin
+<em> 	kursivoi tekstin 
+<i>   kursivoi tekstin
+<small> 	pienentää tesktin
+<strong> 	lihavoi tekstin
+<sub> 	teksti tai luku alapuolella
+<sup> 	teksti tai luku yläpuolella
+<ins> 	alleviivaa tekstin
+<del> 	yliviivaa tekstin
+<mark> 	merkkaa värillä tekstin
+
+<!--tässä lainauksiin vinkkejä-->
+<q>tekstiä</q> <!--tässä tulee lainausmerkit valitulle tekstille-->
+<blockquoute>tekstiä</blockquote> <!--tämä sisentää valitus tekstin-->
