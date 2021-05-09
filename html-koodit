@@ -32,7 +32,7 @@ type="i" 	The list items will be numbered with lowercase roman numbers
 <b> 	lihavoi tekstin
 <em> 	kursivoi tekstin 
 <i>   kursivoi tekstin
-<small> 	pienentää tesktin
+<small> 	pienentää tekstin
 <strong> 	lihavoi tekstin
 <sub> 	teksti tai luku alapuolella
 <sup> 	teksti tai luku yläpuolella
@@ -43,3 +43,13 @@ type="i" 	The list items will be numbered with lowercase roman numbers
 <!--tässä lainauksiin vinkkejä-->
 <q>tekstiä</q> <!--tässä tulee lainausmerkit valitulle tekstille-->
 <blockquoute>tekstiä</blockquote> <!--tämä sisentää valitus tekstin-->
+<blockquote cite:"nettiosoite"> <!--cite-merkintä ilmaisee miltä nettisivulta lainaus on, mutta ei käy lukemassa sivua-->
+<abbr title="Lapin ammattikorkeakoulu">Lapin amk</abbr> <!--tekee lyhennyksen-->
+<address>Tekijän tiedot, kursivoi tekstin.</address> <!--rivinvaihto <br>-->
+<cite>Tällä voidaan tarkentaa teoksen nimi</cite>
+<bdo dir="rtl">tämä kirjoitetaan oikealta vasemmalle</bdo>
+
+<!--tässä linkkeihin vinkkejä-->
+<a href="nettisivu" target="_self">Google</a> <!--avaa samaan ikkunaan nettisivun-->
+target="_blank" <!--avaa uuteen ikkunaan-->
+<a href="nettisivu" target="_blank"><img src="kuvan sijainti" alt="kuvaus" style="width:140px;height:auto;"></a> <!--kuva, jossa viittaus nettisivulle, avaa uuden välilehden-->
