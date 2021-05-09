@@ -1,1 +1,11 @@
-
+/*Unordered lista, list item marker*/
+disc 	Sets the list item marker to a bullet (default)
+circle 	Sets the list item marker to a circle
+square 	Sets the list item marker to a square
+none 	The list items will not be marked
+  
+<ul style="list-style-type:disc;">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
