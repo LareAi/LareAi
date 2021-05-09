@@ -5,6 +5,18 @@
 <a href="">tekstiä</a> <!--linkki internet-sivulle ja teksti-->
 <img src="" alt="" widht="" height=""> <!--kuvan lisääminen ja leveyden & korkeuden määritteleminen-->
 
+<!--listan tekeminen--> <!--KATSO CSS-koodit listan muotoiluun-->
+<ul>Tekstiä <!--unordered lista->
+  <li>eka</li>
+  <li>toka</li>
+ </ul>
+ 
+ <ol>---</ol> <!--ordered lista-->
+ <dl> <!--description lista-->
+  <dt>Coffee</dt> <!--esim. tuote-->
+    <dd>-black hot drink</dd> <!--tarkentava määre-->
+ </dl>
+
 <!--tässä vinkkejä tekstin muokkaukseen-->
 <b> 	lihavoi tekstin
 <em> 	kursivoi tekstin 
