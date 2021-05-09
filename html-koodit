@@ -17,6 +17,17 @@
     <dd>-black hot drink</dd> <!--tarkentava määre-->
  </dl>
 
+<ol type="1"> <!--tässä vinkkejä miten järjestettyyn listaan voi vaihtaa markerin-->
+</ol>
+type="1" 	The list items will be numbered with numbers (default)
+type="A" 	The list items will be numbered with uppercase letters
+type="a" 	The list items will be numbered with lowercase letters
+type="I" 	The list items will be numbered with uppercase roman numbers
+type="i" 	The list items will be numbered with lowercase roman numbers
+
+<ol start="50" <!--jos halutaan aloittaa laskeminen jostain tietystä luvusta alkaen-->
+</ol>
+
 <!--tässä vinkkejä tekstin muokkaukseen-->
 <b> 	lihavoi tekstin
 <em> 	kursivoi tekstin 
